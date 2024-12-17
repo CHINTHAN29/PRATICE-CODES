@@ -1,2 +1,3 @@
 # PRATICE-CODES
 MY FIRST REPOSITORY
+Author = Chinthan B V
